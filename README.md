@@ -1,3 +1,7 @@
 # Marble Theme ZED Extension:
 
-![Screenshot of Marble theme](marble-theme.png)
+## Dark theme:
+![Screenshot of Marble theme - Light](marble-theme.png)
+
+## Light theme:
+![Screenshot of Marble theme - Light](marble-light.png)
