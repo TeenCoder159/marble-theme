@@ -1,6 +1,6 @@
 id = "marble"
 name = "Marble"
-version = "0.2.0"
+version = "0.3.0"
 schema_version = 1
 authors = ["TeenCoder159 TeenCoder159@github.com"]
 description = "Marble theme, an amazing looking theme with blue, red green and orange, all while being pleasant to the eyes"
